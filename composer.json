@@ -11,13 +11,6 @@
             "email": "hamzahnafalah@gmail.com"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "WellmedLite\\MsScm\\MsScmServiceProvider"
-            ]
-        }
-    },
     "require": {
         "hanafalah/module-medical-item": "dev-main",
         "hanafalah/module-funding": "dev-main",
